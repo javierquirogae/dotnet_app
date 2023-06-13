@@ -1,0 +1,15 @@
+/home/jav/dotnetcore_react/app/Reactivities/Persistence/bin/Debug/net7.0/Persistence.deps.json
+/home/jav/dotnetcore_react/app/Reactivities/Persistence/bin/Debug/net7.0/Persistence.dll
+/home/jav/dotnetcore_react/app/Reactivities/Persistence/bin/Debug/net7.0/Persistence.pdb
+/home/jav/dotnetcore_react/app/Reactivities/Persistence/bin/Debug/net7.0/Domain.dll
+/home/jav/dotnetcore_react/app/Reactivities/Persistence/bin/Debug/net7.0/Domain.pdb
+/home/jav/dotnetcore_react/app/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+/home/jav/dotnetcore_react/app/Reactivities/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/jav/dotnetcore_react/app/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+/home/jav/dotnetcore_react/app/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+/home/jav/dotnetcore_react/app/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+/home/jav/dotnetcore_react/app/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+/home/jav/dotnetcore_react/app/Reactivities/Persistence/obj/Debug/net7.0/Persistence.dll
+/home/jav/dotnetcore_react/app/Reactivities/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+/home/jav/dotnetcore_react/app/Reactivities/Persistence/obj/Debug/net7.0/Persistence.pdb
+/home/jav/dotnetcore_react/app/Reactivities/Persistence/obj/Debug/net7.0/ref/Persistence.dll

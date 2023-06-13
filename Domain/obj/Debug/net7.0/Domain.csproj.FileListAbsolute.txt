@@ -1,0 +1,12 @@
+/home/jav/dotnetcore_react/app/Reactivities/Domain/bin/Debug/net7.0/Domain.deps.json
+/home/jav/dotnetcore_react/app/Reactivities/Domain/bin/Debug/net7.0/Domain.dll
+/home/jav/dotnetcore_react/app/Reactivities/Domain/bin/Debug/net7.0/Domain.pdb
+/home/jav/dotnetcore_react/app/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/home/jav/dotnetcore_react/app/Reactivities/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/jav/dotnetcore_react/app/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/home/jav/dotnetcore_react/app/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/home/jav/dotnetcore_react/app/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/home/jav/dotnetcore_react/app/Reactivities/Domain/obj/Debug/net7.0/Domain.dll
+/home/jav/dotnetcore_react/app/Reactivities/Domain/obj/Debug/net7.0/refint/Domain.dll
+/home/jav/dotnetcore_react/app/Reactivities/Domain/obj/Debug/net7.0/Domain.pdb
+/home/jav/dotnetcore_react/app/Reactivities/Domain/obj/Debug/net7.0/ref/Domain.dll
