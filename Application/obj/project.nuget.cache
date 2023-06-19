@@ -1,9 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "SGOJD0bXxVySGfio/CFMXyUHgOw4rtjt5AmFYQMmy2ZCYMFiHweRMdafPhioxb7ED7+c3rc4gnzQS/vtVAvCrA==",
+  "dgSpecHash": "YE9rSV5FkOneycet5kpCYPOE2ilbVkSK5Qg3fbNM/f6QtM/L4XjE7czqV+jFB80mdF2A3v/KRsWF7UPE1Kj2VA==",
   "success": true,
   "projectFilePath": "/home/jav/dotnetcore_react/app/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/home/jav/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/home/jav/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/home/jav/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/home/jav/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/home/jav/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/home/jav/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/jav/.nuget/packages/microsoft.data.sqlite.core/7.0.5/microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
     "/home/jav/.nuget/packages/microsoft.entityframeworkcore/7.0.5/microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "/home/jav/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.5/microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",

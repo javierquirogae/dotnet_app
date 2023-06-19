@@ -1,11 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "EDX/0Ut1EDjmiES6dSMc0fHXdBPjJVMbTjN4yGXBgGhhcF1ucNGt+/BtCAar+HS+kv+tku6l4AM3y/OpCpjftA==",
+  "dgSpecHash": "7jiXzT78gc1uhMObvpkHNnQ/focz0rp0gmGMX2f1z/u78v0tt5AyB/glzDdS0r/aOz93sPC0sCUoW0mcAeCOew==",
   "success": true,
   "projectFilePath": "/home/jav/dotnetcore_react/app/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
+    "/home/jav/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/home/jav/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/home/jav/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/home/jav/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/home/jav/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/home/jav/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "/home/jav/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "/home/jav/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/jav/.nuget/packages/microsoft.data.sqlite.core/7.0.5/microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
     "/home/jav/.nuget/packages/microsoft.entityframeworkcore/7.0.7/microsoft.entityframeworkcore.7.0.7.nupkg.sha512",
     "/home/jav/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.7/microsoft.entityframeworkcore.abstractions.7.0.7.nupkg.sha512",
